@@ -5,3 +5,5 @@ To run the app,
 4. Run 'npx expo start'
 5. Start the emulator
 6. press 'a' to run on android
+
+Expo Snack Live Demo : https://snack.expo.dev/@eimyatmonp/my-listie
